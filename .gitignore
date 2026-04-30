@@ -1,0 +1,17 @@
+# Entorno virtual (Lo más importante por el error anterior)
+.venv/
+venv/
+env/
+
+# Caché de Python
+**/__pycache__/
+*.py[cod]
+
+# Variables de entorno / Secretos
+.env
+
+# Archivos de VS Code
+.vscode/
+
+# Pesados o temporales de entrenamiento (opcional)
+*.log
